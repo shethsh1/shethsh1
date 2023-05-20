@@ -1,16 +1,20 @@
-### Hi there 👋
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=shethsh1&show_icons=true&theme=radical" />
+</a>
 
-<!--
-**shethsh1/shethsh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>👋 About Me </p>
+<ul>
+  <li>Full Stack Developer at BuyProperly</li>
+</ul>
 
-Here are some ideas to get you started:
+<p>✨ Skills </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming languages: I mainly use Node/Springboot for backend and Next.js / Angular for Frontend 📚
+- Other skills: TDD with Cypress and Jest ⚙️
+
+
+<br />
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shethsh1&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
+</a>
